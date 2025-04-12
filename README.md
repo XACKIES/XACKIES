@@ -42,6 +42,9 @@
 ### 🔹 [LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3](https://github.com/XACKIES/LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3)
 > RF Bandpass Filter using LC Ladder topology at 436 MHz, designed for **KNACKSAT-3** CubeSat project.
 
+### 🔹[ Electronic-Suspension-Control-System](https://github.com/XACKIES/Electronic-Suspension-Control-System)
+> Designed a PCB for adaptive damping adjustment of Shock absorber by Using Texas Instruments Real Time Microcontroller
+
 ---
 
 
