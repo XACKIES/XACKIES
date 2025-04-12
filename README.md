@@ -9,7 +9,7 @@
 - 👨‍🎓 I am currently a third-year student in Electronics and Telecommunication Engineering at KMUTT.
 - 🚀 Passionate about Hardware Electronics Engineering : ASIC, FPGA,  Embedded System, PCB - Design 
 - 🌐 Personal site: [bento.me/mac-kittiphop](https://bento.me/mac-kittiphop)  
-- 📫 Contact: [kitttiphopphanthachart@gmail.com](mailto:kitttiphopphanthachart@gmail.com)
+- 📫 Contact: [kittiphopphanthachart@gmail.com](mailto:kittiphopphanthachart@gmail.com)
 
 ---
 
