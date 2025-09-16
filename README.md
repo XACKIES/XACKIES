@@ -6,25 +6,10 @@
 
 ## 🧠 About Me
 
-- 👨‍🎓 I am currently a third-year student in Electronics and Telecommunication Engineering at KMUTT.
+- 👨‍🎓 I am currently a 4th-year student in Electronics and Telecommunication Engineering at KMUTT.
 - 🚀 Passionate about Hardware Electronics Engineering : ASIC, FPGA,  Embedded System, PCB - Design 
 - 🌐 Personal site: [bento.me/mac-kittiphop](https://bento.me/mac-kittiphop)  
 - 📫 Contact: [kittiphopphanthachart@gmail.com](mailto:kittiphopphanthachart@gmail.com)
-
----
-
-## 🔧 Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/VHDL-004080?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-8BC34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ASIC%20Design-E53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MATLAB-ff6600?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPICE%20Netlist-757575?style=for-the-badge" />
-</p>
-
 
 ---
 
@@ -54,6 +39,57 @@
 
 ---
 
-_Thanks for stopping by!_
+
+## 🔧 Technical Skills
+
+### 🖥 Programming IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/Thony-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMV-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPLAB%20X%20IDE-00427E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-FFB300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GOWIN-009688?style=for-the-badge" />
+</p>
+
+### 🔧 Programming Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/NodeRED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧪 Simulation Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Proteus-2A52BE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LTspice-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ModelSim-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MultiSim-4A148C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GHDL-800000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Icarus%20Verilog-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CST-00427E?style=for-the-badge" />
+</p>
+
+### 🖊 EDA
+<p align="left">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Electric--VLSI-8E44AD?style=for-the-badge" />
+</p>
+
+### 💻 Coding Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/VHDL-004080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ff6600?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPICE--Netlist-757575?style=for-the-badge" />
+</p>
 
 
