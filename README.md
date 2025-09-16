@@ -15,8 +15,17 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [MAC101-Chip-H-Bridge-Gate-Controller-](https://github.com/XACKIES/MAC101-Chip-H-Bridge-Gate-Controller-)
-> A custom chip for H-Bridge Gate control, integrated with buck-boost & inverter logic.
+### 🔹[RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL](https://github.com/XACKIES/RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL)
+>  Designed Softcore MIPS Processor : Single-Cycle RISC Architecture in Verilog HDL
+
+### 🔹 [MAC101-Chip-H-Bridge-Gate-Controller](https://github.com/XACKIES/MAC101-Chip-H-Bridge-Gate-Controller-)
+>  ASIC/IC-Design , Gate control of H Bridge Driver for Motor-Drive , Non-Inverting-Buck-Boost Converter , Inverter
+
+### 🔹 [RTL-Design-of-FIR-Filter-on-FPGA-using-Verilog](https://github.com/XACKIES/RTL-Design-of-FIR-Filter-on-FPGA-using-Verilog)
+> Designed a FIR Filter with coefficients calculated in Python and implemented fixed-point arithmetic for FPGA processing.
+
+### 🔹 [RTL-Design-of-IIR-Filter-as-Digital-Envelope-Detector](https://github.com/XACKIES/RTL-Design-of-IIR-Filter-as-Digital-Envelope-Detector)
+> Designed Digital Envelope Detector in Verilog using a first-order IIR Low-Pass filter. useful in ASK/FSK demodulation, and Signal detection.
 
 ### 🔹 [DDS-with-Uart-interface-on-FPGA](https://github.com/XACKIES/DDS-with-Uart-interface-on-FPGA)
 > Direct Digital Synthesizer on FPGA with UART control interface.
@@ -25,10 +34,7 @@
 > Nanosatellite project concept to triangulate animal position based on sound.
 
 ### 🔹 [LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3](https://github.com/XACKIES/LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3)
-> RF Bandpass Filter using LC Ladder topology at 436 MHz, designed for **KNACKSAT-3** CubeSat project.
-
-### 🔹[ Electronic-Suspension-Control-System](https://github.com/XACKIES/Electronic-Suspension-Control-System)
-> Designed a PCB for adaptive damping adjustment of Shock absorber by Using Texas Instruments Real Time Microcontroller
+> Designed a FIR Filter with coefficients calculated in Python and implemented fixed-point arithmetic for FPGA processing.
 
 ---
 
