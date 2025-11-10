@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I am currently a 4th-year student in Electronics and Telecommunication Engineering at KMUTT.
 - 🚀 Passionate about Hardware Electronics Engineering : ASIC, FPGA,  Embedded System, PCB - Design 
-- 🌐 LinkedIn site: [Mac-Kittiphop](https://www.linkedin.com/in/mac-kittiphop/)  
+- 🌐 LinkedIn site: [Kittiphop Phanthachart](https://www.linkedin.com/in/mac-kittiphop/)  
 - 📫 Contact: [p.kittiphop.work@gmail.com](mailto:p.kittiphop.work@gmail.com)
 
 ---
