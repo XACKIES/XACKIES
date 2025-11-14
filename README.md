@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm MACKIES (XACKIES)
 
-> “There is more to be thankful for in life than to regret.”
+> “ Believes in living life to the fullest, constantly seeking new opportunities to learn and grow.”
 
 ---
 
