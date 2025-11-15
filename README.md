@@ -18,7 +18,10 @@
 ### 🔹[RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL](https://github.com/XACKIES/RISC-CPU-Design-of-a-Single-Cycle-MIPS-Softcore-Processor-in-Verilog-HDL)
 >  Designed Softcore MIPS Processor : Single-Cycle RISC Architecture in Verilog HDL
 
-### 🔹 [MAC101-Chip-H-Bridge-Gate-Controller](https://github.com/XACKIES/MAC101-Chip-H-Bridge-Gate-Controller-)
+### 🔹[MAC32010 Chip : Digital Low-Pass Filter Core (Custom ASIC Design)](https://github.com/XACKIES/MAC32010-Chip-Digital-Low-Pass-Filter-Core_Custom-ASIC-Design)
+>  Custom ASIC implementation of a Verilog FIR low-pass filter core using OpenLane. Adapted RTL from an FPGA project and performed synthesis, floorplanning, placement, routing, and verification on Sky130 PDK.
+
+### 🔹 [MAC101-Chip-H-Bridge-Gate-Controller (Custom ASIC Design)](https://github.com/XACKIES/MAC101-Chip-H-Bridge-Gate-Controller-)
 >  ASIC/IC-Design , Gate control of H Bridge Driver for Motor-Drive , Non-Inverting-Buck-Boost Converter , Inverter
 
 ### 🔹 [RTL-Design-of-FIR-Filter-on-FPGA-using-Verilog](https://github.com/XACKIES/RTL-Design-of-FIR-Filter-on-FPGA-using-Verilog)
