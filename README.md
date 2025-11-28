@@ -37,8 +37,7 @@
 > Nanosatellite project concept to triangulate animal position based on sound.
 
 ### 🔹 [LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3](https://github.com/XACKIES/LC-Ladder-Bandpass-RF---Filter-Design-436MHz-at-KNACSAT-3)
-> Designed a FIR Filter with coefficients calculated in Python and implemented fixed-point arithmetic for FPGA processing.
-
+> Designed LC Ladder RF bandpass filter at 436MHz with a bandwidth of 30MHz
 ---
 
 
