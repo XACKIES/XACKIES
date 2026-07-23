@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 👨‍🎓 I am currently a 4th-year student in Electronics and Telecommunication Engineering at KMUTT. Bangkok, Thailand
+- 👨‍🎓 I am a HW/SW Co—System Design Engineer ( FPGA/DSP & Embedded Linux ) at  Bangkok, Thailand
 - 🚀 Passionate about Hardware Electronics Engineering : ASIC, FPGA,  Embedded System, PCB - Design 
 - 🌐 LinkedIn site: [Kittiphop Phanthachart](https://www.linkedin.com/in/mac-kittiphop/)  
 - 📫 Contact: [p.kittiphop.work@gmail.com](mailto:p.kittiphop.work@gmail.com)
